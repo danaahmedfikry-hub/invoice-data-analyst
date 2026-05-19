@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+openai
+azure-storage-blob
+azure-ai-documentintelligence
+azure-core
+python-dotenv
+faiss-cpu
+langsmith
+langchain
+pypdf
